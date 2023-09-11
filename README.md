@@ -4,7 +4,7 @@
 
 📫 How to reach me:
  
-  * Twitter: [@Trustbycode]([url](https://twitter.com/trustbycode))
+  * Twitter: [@DjSpindim]([url](https://twitter.com/DjSpindim))
   
   * Linkedin: [@Trustbycode]([url](https://www.linkedin.com/in/trustbycode/))
 <!--
