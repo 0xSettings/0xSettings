@@ -1,6 +1,6 @@
-### Hi I'm Trust a Remote Software Engineer
+### Hey! I'm Trust a Java Software Engineer
 
-👯 Open to collaborate 
+👯 Open to collaborate / role
 
 📫 How to reach me:
  
