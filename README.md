@@ -1,7 +1,10 @@
 ### Hi I'm Trust a Remote Software Engineer
 
-- 📫 How to reach me:
+👯 Open to collaborate 
+
+📫 How to reach me:
   Twitter: [@Trustbycode]([url](https://twitter.com/trustbycode))
+  
   Linkedin: [@Trustbycode]([url](https://www.linkedin.com/in/trustbycode/))
 <!--
 **trustbycode/trustbycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
