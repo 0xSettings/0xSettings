@@ -11,11 +11,9 @@ I'm Trust, a Remote Software Engineer (Java) also proficient in C
 
 ## **Languages and Tools:**
 
-![Tech Stack](https://github.com/trustbycode/trustbycode/assets/90010323/9098e144-3e67-4db6-9065-756d4fbee8f0)
+![My Stack](https://github.com/trustbycode/trustbycode/assets/90010323/e4ad6b90-2524-4366-83c8-a017843cbed0)
 
-
-
- 
+## **CONNECT WITH ME**
   * Twitter: [@DjSpindim]([url](https://twitter.com/DjSpindim))
   
   * Linkedin: [@Trustbycode]([url](https://www.linkedin.com/in/trustbycode/))
