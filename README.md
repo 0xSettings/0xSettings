@@ -18,7 +18,7 @@ I'm Trust, a Remote Software Engineer (Java) also proficient in C
 [![X](https://github.com/trustbycode/trustbycode/assets/90010323/60d99969-d3e5-4365-bd57-a17fe3064b83)]([url](https://twitter.com/DjSpindim))
   * [@DjSpindim]([url](https://twitter.com/DjSpindim))
 
-![LinkedIn](https://github.com/trustbycode/trustbycode/assets/90010323/305732bd-3d4c-4e15-aa7d-da1dd5c9e9b9) -  [@Trustbycode]([url](https://www.linkedin.com/in/trustbycode/))
+![LinkedIn](https://github.com/trustbycode/trustbycode/assets/90010323/305732bd-3d4c-4e15-aa7d-da1dd5c9e9b9)
 * [@Trustbycode]([url](https://www.linkedin.com/in/trustbycode/))
 <!--
 **trustbycode/trustbycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
