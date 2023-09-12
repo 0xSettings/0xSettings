@@ -1,6 +1,6 @@
 # **Hey viewer, welcome to my profile 👋**
 
-I'm Trust, a Remote Software Engineer (Java) 
+I'm Trust, a Remote Software Engineer (Java) also proficient in C
 
 
 - 🔭 currently seeking any available Java role 
@@ -11,7 +11,7 @@ I'm Trust, a Remote Software Engineer (Java)
 
 ## **Languages and Tools:**
 
-![Spring Boot](https://github.com/trustbycode/trustbycode/assets/90010323/3f5cb923-11fe-4b7e-86d2-66e9ff34442e)
+![Tech Stack](https://github.com/trustbycode/trustbycode/assets/90010323/9098e144-3e67-4db6-9065-756d4fbee8f0)
 
 
 
