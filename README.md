@@ -11,8 +11,7 @@ I'm Trust, a Remote Software Engineer (Java)
 
 ## **Languages and Tools:**
 
-![](C:\Users\USER\Desktop\Git.png "Git")
-
+![Git](https://github.com/trustbycode/trustbycode/assets/90010323/cf194d23-9c7d-4d97-b55f-82fc1adcc919) 
 
  
   * Twitter: [@DjSpindim]([url](https://twitter.com/DjSpindim))
