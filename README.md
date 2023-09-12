@@ -11,7 +11,8 @@ I'm Trust, a Remote Software Engineer (Java)
 
 ## **Languages and Tools:**
 
-![Git](https://github.com/trustbycode/trustbycode/assets/90010323/cf194d23-9c7d-4d97-b55f-82fc1adcc919) 
+![Spring Boot](https://github.com/trustbycode/trustbycode/assets/90010323/34a2808f-3268-4e37-9df9-2e8ca4094ae8) 
+
 
  
   * Twitter: [@DjSpindim]([url](https://twitter.com/DjSpindim))
