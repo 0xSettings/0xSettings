@@ -11,7 +11,8 @@ I'm Trust, a Remote Software Engineer (Java)
 
 ## **Languages and Tools:**
 
-![Spring Boot](https://github.com/trustbycode/trustbycode/assets/90010323/34a2808f-3268-4e37-9df9-2e8ca4094ae8) 
+![Spring Boot](https://github.com/trustbycode/trustbycode/assets/90010323/3f5cb923-11fe-4b7e-86d2-66e9ff34442e)
+
 
 
  
