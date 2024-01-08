@@ -1,13 +1,11 @@
 # **Hey viewer, welcome to my profile 👋**
 
-I'm Trust, a Remote Software Engineer (Java) also proficient in C
+I'm Trust, Backend Software Engineer proficient in Java and Golang
 
 
-- 🔭 currently seeking any available Java role 
 - 🎓 Final Year Students (B.Sc. Mathematics and Computer Science)
 - 🌱 equipping myself with other programming stack
 - ⚡ Fun fact: Fan of Sport (Basketball, Soccer)
-- 💬 Ask me about Java stacks
 
 ## **Languages and Tools:**
 
