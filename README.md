@@ -20,16 +20,29 @@
 
 </p>
 
-### FRAMEWORKS:
+### Frameworks I Use:
 
 <p align="center">
   
   <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="Spring Boot" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="REACT" style="vertical-align:top; margin:4px">
-  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/48/apache-maven-icon.png" alt="Maven Apache" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/?size=50&id=t5FJr3NzrPSm&format=png" alt="Maven Apache" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/?size=48&id=rHpveptSuwDz&format=png" alt="JWT" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Boostrap CSS" style="vertical-align:top; margin:4px">
+</p>
 
+### Database and Tools I Use:
+
+<p align="center">
+  
+  <img src="https://img.icons8.com/?size=50&id=39855&format=png" alt="MySQL" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/?size=50&id=25010&format=png" alt="PostGRES" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/?size=50&id=36681&format=png" alt="Oracle" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="Git Bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="VS Code" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_goland.svg" alt="GO" style="vertical-align:top; margin:4px">
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" style="vertical-align:top; margin:4px">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trustbycode&show_icons=true&locale=en&layout=compact" alt="trustbycode" /></p>
