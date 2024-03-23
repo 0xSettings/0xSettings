@@ -23,3 +23,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trustbycode&show_icons=true&locale=en" alt="trustbycode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trustbycode&" alt="trustbycode" /></p>
+
+## Connect with me:
+
+<p align="center">
+  <a href = "https://www.linkedin.com/in/trustbycode"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png"/></a>
+<a href = "https://twitter.com/trustcoodes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
