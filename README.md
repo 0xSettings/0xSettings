@@ -26,8 +26,8 @@
   
   <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="Spring Boot" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="REACT" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/48/apache-maven-icon.png" alt="Maven Apache" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/?size=48&id=rHpveptSuwDz&format=png" alt="JWT" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:4px">
 
 </p>
