@@ -20,7 +20,7 @@
 <p align="center">
   
   <img src="https://img.icons8.com/?size=48&id=Pd2x9GWu9ovX&format=png" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/golang_gopher_src_logo_icon_168154.png" alt="golang" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/golang_logo_icon_171074.png" alt="golang" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png" alt="c sharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
