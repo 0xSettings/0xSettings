@@ -35,14 +35,14 @@
 
 <p align="center">
   
-  <img src="https://img.icons8.com/?size=50&id=39855&format=png" alt="MySQL" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/?size=50&id=25010&format=png" alt="PostGRES" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/?size=50&id=36681&format=png" alt="Oracle" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="PostGRES" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/?size=48&id=39913&format=png" alt="Oracle" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="Git Bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="VS Code" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_goland.svg" alt="GO" style="vertical-align:top; margin:4px">
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" style="vertical-align:top; margin:4px">
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trustbycode&show_icons=true&locale=en&layout=compact" alt="trustbycode" /></p>
