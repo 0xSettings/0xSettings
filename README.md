@@ -28,5 +28,5 @@
 
 <p align="center">
   <a href = "https://www.linkedin.com/in/trustbycode"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png"/></a>
-<a href = "https://twitter.com/trustcoodes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/trustcoodes"><img src="https://img.icons8.com/?size=64&id=119014&format=png"/></a>
 </p>
