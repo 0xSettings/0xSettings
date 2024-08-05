@@ -43,11 +43,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="Intellij" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_goland.svg" alt="GO" style="vertical-align:top; margin:4px">
   
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trustbycode&show_icons=true&locale=en&layout=compact" alt="trustbycode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trustbycode&show_icons=true&locale=en" alt="trustbycode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trustbycode&" alt="trustbycode" /></p>
 
