@@ -24,11 +24,12 @@ Backend / Solidity Software Engineer with core focus on <br> Java, Golang, Solid
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OxSettings&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0xSettings)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--oTCqhU8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/kfyk4ne0vb187mhh1o95.jpg)
 
 <!--START_SECTION:waka-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0xSettings)](https://git.io/streak-stats)
+
 <!--END_SECTION:waka-->
