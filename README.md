@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Settings</h1>
-# 💫 About Me:
-Backend / Solidity Software Engineer with core focus on <br> Java, Golang, Solidity with core interest in building <br> in an environment that fosters growth.
 
 
 # 💫 About Me:
@@ -20,8 +18,9 @@ Backend / Solidity Software Engineer with core focus on <br> Java, Golang, Solid
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xSettings&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+ ## 🔥 GitHub Streak: 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xSettings&theme=radical&exclude_days=Sun)](https://git.io/streak-stats)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OxSettings&icon=0&color=0)](https://visitcount.itsvg.in)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0xSettings&theme=dark)](https://git.io/streak-stats)
