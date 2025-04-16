@@ -21,6 +21,6 @@ Backend / Solidity Software Engineer with core focus on <br> Java, Golang, Solid
  ## 🔥 GitHub Streak: 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xSettings&theme=radical&exclude_days=Sun)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=0xSettings&theme=radical&exclude_days=Sun" alt="GitHub Streak" /></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=OxSettings&icon=0&color=0)](https://visitcount.itsvg.in)
+----
