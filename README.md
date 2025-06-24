@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Settings</h1>
+<h1 align="center">Hi 👋, I'm TRUST</h1>
 
 
 # 💫 About Me:
-<p align="center">Backend / Solidity Software Engineer with core focus on Java, Golang, Solidity with core interest in building in an environment that fosters growth.</p>
+<p align="center">Backend / Solidity Software Engineer with core focus on Java, Golang, Solidity with continue interest in building in an environment that fosters growth.</p>
 
 
 ## 🌐 Socials:
