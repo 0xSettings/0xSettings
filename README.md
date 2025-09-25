@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<p align="center">Backend / Solidity Software Engineer with core focus on Java, Golang, Solidity with continue interest in building in an environment that fosters growth.</p>
+<p align="center">Backend / Solidity Software Engineer with core focus on Java, Golang, Solidity learning Rust while on the job with continue interest in building in an environment that fosters growth.</p>
 
 
 ## 🌐 Socials:
