@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm TRUST</h1>
+<h1 align="center">hey viewer I'm TRUST</h1>
 
 
-# 💫 About Me:
+
 <p align="center">I'm a Backend Engineer with practical experience building scalable microservices using Golang, Rust & Java though, <br/> I work with other languages and eager and great at learning, solving problems while on the job with my core database, CI/CD tools skillset.</p>
 
 
