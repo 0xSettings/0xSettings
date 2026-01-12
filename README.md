@@ -1,4 +1,4 @@
-<h1 align="center">hey i'm trust</h1>
+<h1 align="center">hey i'm Trust</h1>
 
 
 
