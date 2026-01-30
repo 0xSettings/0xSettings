@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&center=true&vCenter=true&width=500&lines=wagwan!+nice+having+you+here" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&center=true&vCenter=true&width=500&lines=wagwan!+nice+having+you+here" />
+</p>
 
 
 <p align="center">backend swe - rust focused - building something cool</p>
