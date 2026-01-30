@@ -1,4 +1,22 @@
-<h1 align="center">wagwan! nice having you here</h1>
+<h2 class="wagwan" align="center"><em>wagwan! nice having you here</em></h2>
+
+<style>
+  .wagwan {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+</style>
 
 
 <p align="center">backend swe - rust focused - building something cool</p>
