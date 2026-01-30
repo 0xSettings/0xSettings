@@ -1,8 +1,7 @@
-<h1 align="center">hey i'm Trust</h1>
+<h1 align="center">wagwan! nice having you here</h1>
 
 
-
-<p align="center">I'm a backend software engineer focused on building robust, scalable systems. exploring system-level programming, clean architecture, performance optimization, and writing maintainable code.</p>
+<p align="center">backend swe - rust focused - building something cool</p>
 
 
 ## 🌐 Socials:
