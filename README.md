@@ -1,16 +1,5 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-      font=Inter
-      &weight=700
-      &color=FFFFFF
-      &size=26
-      &pause=1000
-      &center=true
-      &vCenter=true
-      &width=520
-      &lines=wagwan!+nice+having+you+here" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&center=true&vCenter=true&width=500&lines=wagwan!+nice+having+you+here" />
 </p>
 
 
