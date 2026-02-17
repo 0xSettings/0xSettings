@@ -12,3 +12,5 @@
 ## Primary Expertise
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> </div>
 
+##RESUME Summary
+[![SkillSync](https://img.shields.io/badge/SkillSync-Profile-6c63ff?style=for-the-badge&logo=lightning&logoColor=white)](https://app.skillsync.wiki/profile/0xSettings)
