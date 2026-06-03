@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center">backend swe - rust focused - building something cool</p>
+<p align="center">distributed systems | security | Infra swe - rust focused - building something cool</p>
 
 
 ## 🌐 Socials:
